@@ -1,0 +1,17 @@
+MANIFEST.in
+setup.py
+robot_app.egg-info/PKG-INFO
+robot_app.egg-info/SOURCES.txt
+robot_app.egg-info/dependency_links.txt
+robot_app.egg-info/requires.txt
+robot_app.egg-info/top_level.txt
+robot_package/__init__.py
+robot_package/robot.py
+robot_package/shop_recommend_robot.py
+robot_package/texts/msg_ask_agreement_for_restaurant_template.txt
+robot_package/texts/msg_ask_favorite_restaurant_template.txt
+robot_package/texts/msg_ask_user_name_template.txt
+robot_package/texts/msg_footer.txt
+robot_package/texts/msg_header.txt
+robot_package/utils/__init__.py
+robot_package/utils/msg_template_reader.py
